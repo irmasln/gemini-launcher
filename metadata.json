@@ -1,0 +1,9 @@
+{
+  "uuid": "gemini-launcher@irmasln",
+  "name": "Gemini Launcher",
+  "description": "Opens Google Gemini in a resizable popup window from a top panel button.\n\nLeft click: show/hide the popup. Right click: Home, Back, Reload.\nEsc hides the popup; your login session is kept.\n\nRequires gjs and WebKitGTK 6.0 (webkitgtk-6.0 / gir1.2-webkit-6.0).",
+  "shell-version": ["45", "46", "47", "48", "49", "50", "51"],
+  "settings-schema": "org.gnome.shell.extensions.gemini-launcher",
+  "url": "https://github.com/irmasln/gemini-launcher",
+  "version": 2
+}

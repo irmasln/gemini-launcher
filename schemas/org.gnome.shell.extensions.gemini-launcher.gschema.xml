@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.gemini-launcher"
+          path="/org/gnome/shell/extensions/gemini-launcher/">
+    <key name="popup-width" type="i">
+      <default>480</default>
+      <range min="300" max="4000"/>
+      <summary>Popup genişliği (px)</summary>
+    </key>
+    <key name="popup-height" type="i">
+      <default>720</default>
+      <range min="300" max="4000"/>
+      <summary>Popup yüksekliği (px)</summary>
+    </key>
+  </schema>
+</schemalist>
